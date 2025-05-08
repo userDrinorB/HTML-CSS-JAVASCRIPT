@@ -1,0 +1,45 @@
+@kiwi_fruitzip{
+    font-family:"test"
+    scr:url("font/kiwi_fruitzip.otf");
+
+}
+
+h1{
+    color: gold;
+    letter-spacing: 20px;
+    word-spacing: 40px;
+}
+
+p{
+    text-align: center;
+    text-indent:50px ;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    text-decoration: overline;
+
+}
+
+h3{
+    text-decoration: line-through;
+
+}
+
+h4{
+    text-decoration: underline;
+}
+
+.test {
+    color: greenyellow;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+#test_id{
+    color: rebeccapurple;
+    font-size: 30px;
+    font-style: italic;
+}
