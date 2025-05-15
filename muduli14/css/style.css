@@ -1,0 +1,58 @@
+article p{
+
+    background-color: blue;
+    color: black;
+    padding: 20px;
+}
+article > p{
+    
+    background-color: red;
+    padding: 20px;
+}
+
+
+article + p{
+    background-color: gold;
+    padding: 30px;
+}
+
+
+article ~ p {
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 20px;
+}
+
+h3 {
+    color: red;
+
+}
+
+h3:first-of-type{
+    color: blue;
+}
+
+input:in-range{
+
+    border: 3px solid  gold;
+    
+}
+input:out-of-range{
+    border: 3px solid  red;
+    
+}
+
+input:required{
+    background-color: aqua;
+
+}
+input:focus{
+    background-color: yellowgreen;
+}
+p::first-line{
+    color:red;
+}
+p::first-letter{
+    color: rebeccapurple;
+    font-size: 20pxSSSSSS;
+}

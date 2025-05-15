@@ -1,0 +1,60 @@
+
+@starbim {
+    font-family:"Test";
+    src;url("fonts/starbim.zip");
+
+}
+
+
+
+
+h1{
+    letter-spacing: 20px;
+    word-spacing: 40px;
+    color: aquamarine;
+}
+
+
+   p{
+
+
+    text-align: center;
+  text-indent: 60px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+
+  
+   } 
+  
+    
+
+
+h2{
+
+    text-decoration: overline;
+    font-family: "Test";
+}
+
+h3{
+
+    text-decoration: line-through;
+}
+
+h4{
+
+    text-decoration: underline;
+}
+
+.test {
+
+    color:black;
+    font-size: 30px";
+    text-algin:center;
+}
+
+#tst_id {
+    color: crimson;
+    font-size: 25px;
+}
+
+<script src="https://kit.fontawesome.com/83e1d59
+f24.js" crossorigin="anonymous"></script>
