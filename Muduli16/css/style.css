@@ -1,0 +1,47 @@
+
+    margin: 5px;
+    border: 1px solid green;
+    float: left;
+    width: 180px;
+}
+
+.gallery:hover {
+    border: 3px solid blue;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.sprite {
+    background: url("../images/hoses.png"); 
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+
+
+.engineer {
+    width: 500px;
+    height: 500px;
+    background-position: 0 0;
+}
+
+
+.shadows {
+    width: 300px;
+    height: 300px;
+    background-position: -100px -100px;
+}
+
+
+p[class*="ds"] {
+    background-color: blue;
+    color: black;
+    padding: 20px;
+}
